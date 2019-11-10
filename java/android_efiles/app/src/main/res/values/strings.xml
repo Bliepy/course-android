@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">eFiles</string>
+    <string name="title_activity_main">eFiles</string>
+    <string name="title_evidence">Evidence</string>
+    <string name="title_transfer">Transfer</string>
+    <string name="title_reports">Reports</string>
+
+    <!--evidence-->
+    <string name="evidence_id">ID</string>
+    <string name="evidence_owner">Owner</string>
+    <string name="evidence_description">Description</string>
+    <string name="evidence_created">Created</string>
+    <string name="evidence_updated">Updated</string>
+    <string name="evidence_transfer_history">Transfer history</string>
+    <string name="evidence_owner_previous">Previous owner</string>
+    <string name="evidence_owner_new">New owner</string>
+    <string name="evidence_date">Date</string>
+</resources>
+

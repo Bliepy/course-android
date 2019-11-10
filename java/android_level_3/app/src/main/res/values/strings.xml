@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Student portal APP</string>
+
+    <string name="main_title">Student portal APP</string>
+
+    <string name="main_label_vlo">VLO</string>
+    <string name="main_label_dmci">DMCI</string>
+    <string name="main_label_rooster">Roosters</string>
+    <string name="main_label_result">Result</string>
+
+    <string name="online_view_title">StudentPortal</string>
+
+    <string name="add_portal_title">AddPortal</string>
+    <string name="add_portal_label_url">url</string>
+    <string name="add_portal_label_title">url</string>
+    <string name="add_portal_button">ADD PORTAL</string>
+    <string name="title_activity_default">DefaultActivity</string>
+    <string name="title_activity_add_portal">AddPortal</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>

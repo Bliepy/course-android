@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Game backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">Add game backlog</string>
+    <string name="title_activity_edit">Edit game backlog</string>
+    <string-array name="option_array">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+</resources>
