@@ -41,7 +41,6 @@ class AddActivity : AppCompatActivity() {
             val years = gameDateYear.text.toString()
 
             try {
-
                 val date: LocalDate = LocalDate.parse("$years-$months-$days", DateTimeFormatter.ISO_DATE)
                 gameViewModel?.createGame(
                     GameEntity(
